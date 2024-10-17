@@ -1,3 +1,5 @@
+// Author: Offensive-Panda
+// Offensive Security Researcher
 #include <windows.h>
 #include "header.h"
 #include <DbgHelp.h>
@@ -73,7 +75,6 @@ BOOL CALLBACK minidumpCallback(
 
 int main(int argc, char** argv)
 {
-	const char* key = "offensive-panda";
 	int returnCode;
 	HANDLE dumpFile = NULL;
 	DWORD bytesWritten = 0;
