@@ -27,4 +27,7 @@ pypykatz lsa minidump [filename]
 ```
 
 ## Disclaimer
-The content provided on this repository is for educational and informational purposes only
+The content provided on this repository is for educational and informational purposes only.
+
+### Reference 
+https://www.deepinstinct.com/blog/dirty-vanity-a-new-approach-to-code-injection-edr-bypass
