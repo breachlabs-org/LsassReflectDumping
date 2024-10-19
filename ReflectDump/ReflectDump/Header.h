@@ -1,6 +1,4 @@
 #pragma once
-#pragma once
-#pragma once
 #include <format>
 #include <iostream>
 #include <Windows.h>
